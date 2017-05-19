@@ -1,5 +1,5 @@
 # Raspbian Cadvisor
-Google's [cAdvisor](https://github.com/google/cadvisor) compiled and packaged for the Raspberry Pi 2.
+Google's [cAdvisor](https://github.com/google/cadvisor) compiled and packaged for the Raspberry Pi 3.
 
 ## Usage
 ```
@@ -20,3 +20,4 @@ More Info on the [cAdvisor GitHub](https://github.com/google/cadvisor) page.
 ## Dev
 Expects the [cAdvisor](https://github.com/google/cadvisor) binary to be in `content/`
 Run `sudo make build` to build the docker container.
+# armh-cadvisor

@@ -1,5 +1,5 @@
 # vim:set ft=dockerfile:
-FROM resin/rpi-raspbian:jessie
+FROM jroberts235/rpi-raspian-jessie-20160831
 
 ADD content/cadvisor /usr/bin/cadvisor
 
